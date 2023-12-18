@@ -12,11 +12,11 @@ Boost employee engagement and morale, leading to increased productivity and rete
 The Live Poll App is a web-based application that allows administrators to create polls and quizzes and enables users to participate in these polls.
 ## Installation
  Install dependencies:
-    ```bash
+    ```
     npm install
     ```
  To start the application in development mode:
-    ```bash
+    ```
     npm run dev
     ```
 
