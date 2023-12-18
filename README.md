@@ -36,7 +36,6 @@ backend
 
 ## Tech Stack
 - **Frontend:**
-    - HTML, CSS, JavaScript: Building the user interface and interactions.
     - React.js: Dynamic UI components.
     - Axios: Handling asynchronous requests to the backend.
     - EmailJs: To send no reply confirmation messages.
