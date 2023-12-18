@@ -10,6 +10,19 @@ Boost employee engagement and morale, leading to increased productivity and rete
 
 
 The Live Poll App is a web-based application that allows administrators to create polls and quizzes and enables users to participate in these polls.
+## Installation
+ Install dependencies:
+    ```bash
+    npm install
+    ```
+ To start the application in development mode:
+    ```bash
+    npm run dev
+    ```
+
+
+backend 
+   run the project in your ide. I prefer intellij.
 
 ## Features
 
@@ -22,3 +35,15 @@ The Live Poll App is a web-based application that allows administrators to creat
     - Submit answers: Users can submit their answers to the questions presented in the polls.
 
 ## Tech Stack
+- **Frontend:**
+    - HTML, CSS, JavaScript: Building the user interface and interactions.
+    - React.js: Dynamic UI components.
+    - Axios: Handling asynchronous requests to the backend.
+    - EmailJs: To send no reply confirmation messages.
+- **Backend:**
+    - Spring Boot: Java-based framework for building robust and scalable applications.
+    - MySQL: Relational database for storing polls, user data, and results.
+    - Spring Data JPA: Simplifying the data access layer and database interactions.
+## Entity-Relationship Diagram (ERD)
+
+![ERD](Untitled Diagram.drawio.svg)
