@@ -47,3 +47,7 @@ backend
 ## Entity-Relationship Diagram (ERD)
 
 ![ERD](Untitled%20Diagram.drawio.svg)
+
+## Design
+![mockup](lookup.png)
+Explore the design in Figma: [Figma Polling App Design](https://www.figma.com/file/YOVsLuKPQrOgGuK55tJvJU/polling-app)
