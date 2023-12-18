@@ -46,4 +46,4 @@ backend
     - Spring Data JPA: Simplifying the data access layer and database interactions.
 ## Entity-Relationship Diagram (ERD)
 
-![ERD](Untitled Diagram.drawio.svg)
+![ERD](Untitled%20Diagram.drawio.svg)
